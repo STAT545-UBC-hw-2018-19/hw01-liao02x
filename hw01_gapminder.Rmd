@@ -1,0 +1,60 @@
+---
+title: "Homework 01"
+output: github_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In this assignment we are supposed to do some explorations on a dataset.
+
+## Set up the environment
+
+The dataset I choose to use is gapminder. Notice that gapminder is not installed defaultly, so before any exploration first you need to get it installed like this:
+
+```{r results='hide'}
+install.packages("gapminder")
+```
+
+Then the package should be loaded before we use it, like import things in python:
+
+```{r}
+library(gapminder)
+```
+
+Now we are ready to go.
+
+## Basic informations of the dataset
+
+You can just print the dataset like this:
+
+```{r results='hide'}
+print(gapminder)
+```
+
+But it is presented in a poor way. Luckily there is summary function for showing basic infos of the dataset.
+
+```{r cars}
+summary(gapminder)
+```
+
+Also there are other handy functions:
+```{r}
+head(gapminder)
+str(gapminder)
+ncol(gapminder)
+nrow(gapminder)
+```
+
+## Further exploration
+
+You can always take a colunm of the dataset for further calculations.
+```{r}
+head(gapminder$pop)
+```
+
+The variance and mean can be easily calculated by using var and mean function.
+```{r}
+var(gapminder$pop)
+mean(gapminder$pop)
+```
