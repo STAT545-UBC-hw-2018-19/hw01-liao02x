@@ -1,6 +1,7 @@
 # STAT545 Homework 1
 This repository is for the first assignment (hw01) of STAT545 course.
 
+<del>If you are not the instructor, please leave. </del>Welcome here, everyone!
 ### Files required for this assignment:
 - [x] This readme: [readme.md](https://github.com/STAT545-UBC-students/hw01-liao02x/blob/master/README.md)
 - [x] .Rmd: [hw01_gapminder.Rmd](https://github.com/STAT545-UBC-students/hw01-liao02x/blob/master/hw01_gapminder.Rmd)
@@ -8,7 +9,7 @@ This repository is for the first assignment (hw01) of STAT545 course.
 
 
 ## About Me
-Minzhi Liao, second year Master of Engineering student.
+**Minzhi Liao**, second year *Master of Engineering* student in ECE department.
 
 ## Course Links
 This is the home page for the course: [STAT545](http://stat545.com/Classroom/)
