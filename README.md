@@ -24,14 +24,13 @@ Just kidding!
 
 ![](https://compass-ssl.microsoft.com/assets/7d/df/7ddf36fd-d09b-467d-aac6-1f5b491d3b7f.jpg?n=Monster-Hunter-World_GLP-Page-Hero-1084_1920x600.jpg)
 
-    Finally get it on pc!
-**We are the hunters!**
+   Finally get it on pc!**We are the hunters!**
 
 + Steins;Gate Zero
 
 ![](https://cdnx.natalie.mu/media/news/comic/2018/0316/steinsgate0_visual_fixw_640_hq.jpg)
 
-    **El psy, congroo!**
+   **El psy, congroo!**
 
 Also two of my favorite bangumis release new episode this October, so I'll need a checklist for them in case I missed either of them.
 + Checklist for October bangumi:
