@@ -21,8 +21,9 @@ Just kidding!
 ### Favorite things recently
 
 #### Monster Hunter: World
-![](http://www.monsterhunterworld.com/images/pc/top/img_mainvisual.jpg)
+![](https://compass-ssl.microsoft.com/assets/7d/df/7ddf36fd-d09b-467d-aac6-1f5b491d3b7f.jpg?n=Monster-Hunter-World_GLP-Page-Hero-1084_1920x600.jpg)
 
+Finally get it on pc!
 **We are the hunters!**
 
 #### Steins;Gate Zero
