@@ -1,7 +1,7 @@
 # STAT545 Homework 1
 This repository is for the first assignment (hw01) of STAT545 course.
 
-<del>If you are not the instructor, please leave. </del>Welcome here, everyone!:octocat::octocat:
+<del>If you are not the instructor, please leave.</del> Welcome here, everyone!:octocat::octocat:
 #### Files required for this assignment:
 - [x] This readme: [readme.md](https://github.com/STAT545-UBC-students/hw01-liao02x/blob/master/README.md)
 - [x] .Rmd: [hw01_gapminder.Rmd](https://github.com/STAT545-UBC-students/hw01-liao02x/blob/master/hw01_gapminder.Rmd)
