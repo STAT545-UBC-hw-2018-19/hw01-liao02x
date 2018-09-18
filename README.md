@@ -47,5 +47,6 @@ Also two of my favorite bangumis release new episode this October, so I'll need 
 
 ## Author
 This is the repository of Minzhi Liao.
+
 Please contact me at [liao02x@gmail.com](mailto://liao02x@gmail.com) if you have any concerns.
 
