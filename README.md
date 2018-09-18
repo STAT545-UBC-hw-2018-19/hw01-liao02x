@@ -33,7 +33,7 @@ Finally get it on pc! **We are the hunters!**
 >**El psy, congroo!**
 
 Also two of my favorite bangumis release new episode this October, so I'll need a checklist for them in case I missed either of them.
-+ Checklist for October bangumi:
++ <b>*Checklist for October bangumi*</b>
 
 |    **Bangumi**    | **Released on** |
 |----------------|------------|
