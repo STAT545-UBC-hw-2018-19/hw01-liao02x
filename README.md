@@ -13,15 +13,22 @@ This repository is for the first assignment (hw01) of STAT545 course.
 
 Working with python and C++ for many years, I find the most useful one in python is:
 ```python
-from future import braces
+from __future__ import braces
 ```
 Just kidding!
+
 
 ### Favorite things recently
 
 #### Monster Hunter: World
 ![](http://www.monsterhunterworld.com/images/pc/top/img_mainvisual.jpg)
-[](http://www.monsterhunterworld.com/images/pc/top/img_mainvisual.jpg)
+
+**We are the hunters!**
+
+#### Steins;Gate Zero
+![](https://cdnx.natalie.mu/media/news/comic/2018/0316/steinsgate0_visual_fixw_640_hq.jpg)
+
+**El psy, congroo!**
 
 ## Course Links
 This is the home page for the course: [STAT545](http://stat545.com/Classroom/)
