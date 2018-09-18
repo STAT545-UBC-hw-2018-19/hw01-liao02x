@@ -41,8 +41,9 @@ Also two of my favorite bangumis release new episode this October, so I'll need 
 | Sword Art Online: Episode 3      | October 6   |
 
 ## Course Links
-This is the home page for the course: [STAT545](http://stat545.com/Classroom/)
-Link to the homework 01: [STAT545 Homework 01](http://stat545.com/Classroom/assignments/hw01/hw01.html)
+- This is the home page for the course: [STAT545](http://stat545.com/Classroom/)
+
+- Link to the homework 01: [STAT545 Homework 01](http://stat545.com/Classroom/assignments/hw01/hw01.html)
 
 ## Author
 This is the repository of Minzhi Liao.
